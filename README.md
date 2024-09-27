@@ -14,7 +14,9 @@ CP1 - Front-End Design
 
 ### Descrição
 
-O projeto tem como objetivo apresentar a Vinheria Agnello e seus tipos de vinho.
+O projeto tem como objetivo apresentar o caso da Vinheria Agnello, apresentando informações sobre seu acervo completo, mostrando os mais variados tipos de vinhos, bem como dicas de harmonizações.
+Foram utilizadas Tags semânticas, como Header, footer, section, article.
+O projeto foi estilizado com CSS, Uso de imagens e links.
 
 1. **Index**: Página principal do projeto.
 2. **sobre**: Informações sobre a Vinheria Agnello.
@@ -34,5 +36,4 @@ O projeto tem como objetivo apresentar a Vinheria Agnello e seus tipos de vinho.
 - `acervo.css`: Arquivo de estilo para personalizar a aparência da página.
 - `sobre.css`: Arquivo de estilo para personalizar a aparência da página.
 - `harmonizacao.css`: Arquivo de estilo para personalizar a aparência da página.
-
 ---
